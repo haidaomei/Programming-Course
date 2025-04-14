@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\DDdao\source\repos\Shape类&Circle类&Retangle类\FileName.cpp(57,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Shape类&Circle类&Retangle类.vcxproj -> C:\Users\DDdao\source\repos\Shape类&Circle类&Retangle类\x64\Debug\Shape类&Circle类&Retangle类.exe

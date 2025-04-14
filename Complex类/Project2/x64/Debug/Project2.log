@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+C:\Users\DDdao\source\repos\程序设计课\Complex类\FileName.cpp(127,1): warning C4172: 返回局部变量的地址或临时 : a
+C:\Users\DDdao\source\repos\程序设计课\Complex类\FileName.cpp(105,1): warning C4172: 返回局部变量的地址或临时 : d
+C:\Users\DDdao\source\repos\程序设计课\Complex类\FileName.cpp(96,1): warning C4172: 返回局部变量的地址或临时 : a
+  Project2.vcxproj -> C:\Users\DDdao\source\repos\程序设计课\Complex类\x64\Debug\Project2.exe
