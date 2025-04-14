@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\DDdao\source\repos\程序设计课\RandomNum类\FileName.cpp(44,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  random.vcxproj -> C:\Users\DDdao\source\repos\程序设计课\RandomNum类\x64\Debug\random.exe
